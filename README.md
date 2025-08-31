@@ -10,8 +10,8 @@ A personal portfolio website showcasing **Abdelrahman Tarek's** skills and exper
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](./preview.png)
-
+## 🌐 Live Demo
+🔗(https://abdelrahman-tarek-portfolio.vercel.app/)
 ---
 
 ## 🚀 Features
@@ -59,3 +59,4 @@ Simply open `index.html` in any modern browser.
 © 2025 **Abdelrahman Tarek**. All rights reserved.  
 
 ⭐ *Star this repo if you found it helpful!*  
+
